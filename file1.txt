@@ -1,6 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> 9282cc690396639f7bbcac05db9546b989b4ca9d
 git is a free software
 =======
 Hello
@@ -11,4 +16,13 @@ Hello
 =======
 Hello
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+=======
+=======
+Hello
+>>>>>>> Stashed changes
+=======
+Hello
+>>>>>>> Stashed changes
+>>>>>>> 9282cc690396639f7bbcac05db9546b989b4ca9d
 Hwllo World
