@@ -2,7 +2,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 git is a free software
+=======
+Hello
+>>>>>>> Stashed changes
 =======
 Hello
 >>>>>>> Stashed changes
